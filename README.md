@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 🏢 **Software & Data Engineer** at [Commerce Layer](https://www.cecureintell.com)
+- 🏢 **Software & Data Engineer** at [Cecure Intelligence ltd](https://www.cecureintell.com)
 - 🎓 Studying at AltSchool Africa, School of Software Engineering (Class of 2024)
 - 💡 Passionate about building impactful solutions and scalable backend systems
 - 🔥 Love open source, hackathons, and collaborative projects
