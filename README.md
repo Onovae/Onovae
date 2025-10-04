@@ -10,7 +10,7 @@
 🌟 **About Me**
 
 - 🏢 **Software & Data Engineer** at [Cecure Intelligence ltd](https://www.cecureintell.com)
-- 🎓 Studying at AltSchool Africa, School of Software Engineering (Class of 2024)
+- 🎓 Studied at AltSchool Africa, School of Software Engineering (Class of 2024)
 - 💡 Passionate about building impactful solutions and scalable backend systems
 - 🔥 Love open source, hackathons, and collaborative projects
 
@@ -31,8 +31,8 @@
 
 - 😊 Pronouns: she/her
 - 🌱 Currently learning advanced JavaScript, React, and deepening Python skills
-- 👩🏾‍💻 Open to junior roles, internships, open-source collaborations, and tech talks
-- 📄 [View My Resume](https://drive.google.com/file/d/1hIjlVZMSWf3iRopIxxlslNsTevTWbCZW/view?usp=sharing)(#) | 📬 maureenonovae@gmail.com
+- 👩🏾‍💻 Open to junior roles, open-source collaborations, and tech talks
+- 📄 [View My Resume](maureenonovae.cv/dev)(#) | 📬 maureenonovae@gmail.com
 
 ---
 
