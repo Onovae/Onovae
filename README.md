@@ -10,7 +10,7 @@
 🌟 **About Me**
 
 - 🏢 **Software & Data Engineer** at [Cecure Intelligence ltd](https://www.cecureintell.com)
-- 🎓 Studied at AltSchool Africa, School of Software Engineering (Class of 2024)
+- 🎓 Studied at AltSchool Africa, School of Software Engineering 
 - 💡 Passionate about building impactful solutions and scalable backend systems
 - 🔥 Love open source, hackathons, and collaborative projects
 
