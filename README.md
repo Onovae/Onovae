@@ -32,7 +32,7 @@
 - 😊 Pronouns: she/her
 - 🌱 Currently learning advanced JavaScript, React, and deepening Python skills
 - 👩🏾‍💻 Open to junior roles, open-source collaborations, and tech talks
-- 📄 [View My Resume](maureenonovae.cv/dev) | 📬 maureenonovae@gmail.com
+- 📄 [View My Resume]([maureenonovae.cv/dev](https://hello.cv/sites/341362343194370048/preview)) | 📬 maureenonovae@gmail.com
 
 ---
 
